@@ -1,0 +1,9 @@
+.container {
+       border: 3px  solid rgb(97, 218, 251);
+       border-radius: 30px;
+       padding: 10px;
+}
+
+.numbers {
+    color: rgb(25, 118, 210);
+}
